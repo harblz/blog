@@ -1,0 +1,28 @@
+1529406772a:1:{s:13:"site/meta.htm";a:6:{s:8:"fileName";s:13:"site/meta.htm";s:7:"content";s:662:"==
+<meta charset="utf-8">
+<title>{{ this.page.title }} - {{ this.theme.site_name }}</title>
+<meta name="description" content="{{ this.page.meta_description }}">
+<meta name="title" content="{{ this.page.meta_title }}">
+<meta name="author" content="OctoberCMS">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="OctoberCMS">
+<link rel="icon" type="image/png" href="{{ 'assets/images/favicon-96x96.png'|theme }}">
+<link href="{{ [
+    '@framework.extras',
+    'assets/less/vendor.less'
+]|theme }}" rel="stylesheet">
+<link href="{{ ['assets/less/theme.less']|theme }}" rel="stylesheet">
+{% styles %}";s:5:"mtime";i:1529371334;s:6:"markup";s:658:"<meta charset="utf-8">
+<title>{{ this.page.title }} - {{ this.theme.site_name }}</title>
+<meta name="description" content="{{ this.page.meta_description }}">
+<meta name="title" content="{{ this.page.meta_title }}">
+<meta name="author" content="OctoberCMS">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="OctoberCMS">
+<link rel="icon" type="image/png" href="{{ 'assets/images/favicon-96x96.png'|theme }}">
+<link href="{{ [
+    '@framework.extras',
+    'assets/less/vendor.less'
+]|theme }}" rel="stylesheet">
+<link href="{{ ['assets/less/theme.less']|theme }}" rel="stylesheet">
+{% styles %}";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}
